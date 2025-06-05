@@ -1,3 +1,6 @@
+/* ALD ZUKHRUF BIN SHAHRULHISAM */
+
+/* Untuk membuat perubahan yang sama  */
 body {
     font-family: Arial, sans-serif;
     padding: 40px;
@@ -5,10 +8,12 @@ body {
     background-color: #f9f9f9;
 }
 
+/* Mengatur elemen lain di dalam halaman web */
 .container {
     margin-top: 100px;
 }
 
+/* Untuk menarik minat pengguna */
 .button {
     padding: 10px 20px;
     font-size: 18px;
@@ -20,6 +25,7 @@ body {
     text-decoration: none;
 }
 
+/* Untuk kontrol tampilan visual suatu halaman web */
 .message {
     display: none;
     margin-top: 30px;
